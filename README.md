@@ -27,11 +27,3 @@ This project focuses on evaluating and improving the performance of Large Langua
 
 ---
 
-## 📂 Project Structure
-
-deepeval-main/
-│── deepeval/ # Core evaluation logic
-│── examples/ # Sample use cases
-│── tests/ # Testing modules
-│── tracing_tests/ # Evaluation tracing
-│── README.md
